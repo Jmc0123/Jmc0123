@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Jmc0123
 - 👀 I’m interested in ... programming / cyber security / pc build 
 - 🌱 I’m currently learning ... cyber security / big data / ai 
-- 💞️ I’m looking to collaborate on ...learning knowledge / news 
+- 💞️ I’m looking to collaborate on ... learning knowledge / news 
 - 📫 How to reach me ... dm / gmail 
 
 <!---
